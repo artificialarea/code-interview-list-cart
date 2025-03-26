@@ -18,3 +18,6 @@ Task(s):
 
 ... all within an hour.
 
+Main branch simply boilerplate. A tabla rasa starting point. 
+
+See branch(es) for solutions to exercise.
