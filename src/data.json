@@ -1,0 +1,30 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Eggs",
+        "price": 2.25
+      },
+      {
+        "id": 2,
+        "name": "Milk",
+        "price": 1.99
+      },
+      {
+        "id": 3,
+        "name": "Butter",
+        "price": 0.5
+      },
+      {
+        "id": 4,
+        "name": "Sugar",
+        "price": 2.99
+      },
+      {
+        "id": 5,
+        "name": "Flour",
+        "price": 1.5
+      }
+    ]
+  }
+  
