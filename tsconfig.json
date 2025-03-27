@@ -1,5 +1,10 @@
 {
     "compilerOptions": {
-      "jsx": "react-jsx"
+      "resolveJsonModule": true,
+      "esModuleInterop": true,      // Optional but recommended for compatibility with CommonJS modules
+      "module": "ESNext",           // Ensure this is set to ESNext or a compatible module system
+      "target": "ES6",              // Ensure this is set to ES6 or higher
+      "moduleResolution": "node",   // Required for resolveJsonModule to work
+      "jsx": "react-jsx"            // Add this line to enable JSX support
     }
-}
+  }

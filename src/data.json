@@ -13,7 +13,7 @@
       {
         "id": 3,
         "name": "Butter",
-        "price": 0.5
+        "price": 0.50
       },
       {
         "id": 4,
@@ -23,8 +23,7 @@
       {
         "id": 5,
         "name": "Flour",
-        "price": 1.5
+        "price": 1.50
       }
     ]
   }
-  

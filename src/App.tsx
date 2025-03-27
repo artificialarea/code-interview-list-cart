@@ -18,6 +18,12 @@ import "./App.css";
  * ... all within an hour.
  */
 
+import data from './data.json';
+
+
+console.log(data.items);
+
+
 export default function App() {
   return <div className="App">Hello World</div>;
 }
